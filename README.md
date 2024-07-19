@@ -14,6 +14,7 @@ Submit your completed assignment by [due date].
 
 **ASSIGNMENT ANSWERS BELOW:**
 
+
 1. Introduction to GitHub: What is GitHub, and what are its primary functions and features? 
 Explain how it supports collaborative software development.
 
@@ -40,6 +41,7 @@ and version control using Git. Its primary functions and features include:
 
 b). GitHub supports collaborative software development by enabling multiple developers to work on the same project concurrently, 
 track changes, review code, and automate workflows.
+
 
 
 2. Repositories on GitHub: What is a GitHub repository? Describe how to create a new repository and the essential 
@@ -80,6 +82,8 @@ b). Essential elements in a repository include:
   
 - **tests/**: Contains test cases for the code.
 
+
+
 3. Version Control with Git: Explain the concept of version control in the context of Git. 
 How does GitHub enhance version control for developers?
 
@@ -100,6 +104,8 @@ b). GitHub enhances version control by:
 - **Pull requests and reviews**: Allowing for peer reviews before integrating changes.
   
 - **Issue tracking**: Managing project tasks and bug tracking.
+
+  
 
 4. Branching and merging in GitHub: What are branches in GitHub, and why are they important? Describe the process 
 of creating a branch, making changes, and merging it back into the main branch.
@@ -138,6 +144,8 @@ ii. Create a pull request on GitHub.
 iii. Review and merge the pull request.
 
 
+
+
 5. Pull Requests and Code Reviews: What is a pull request in GitHub, 
 and how does it facilitate code reviews and collaboration? Outline the steps to create and review a pull request.
 
@@ -174,6 +182,8 @@ iii. Leave comments or request changes.
 iv. Approve and merge the pull request if everything looks good.
 
 
+
+
 6. GitHub Actions: Explain what GitHub Actions are and how they can be used to automate workflows.
    
 Provide an example of a simple CI/CD pipeline using GitHub Actions.
@@ -206,6 +216,8 @@ jobs:
       run: npm test
 
 
+
+
 7. Introduction to Visual Studio: What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
 
 
@@ -231,6 +243,8 @@ i. **Visual Studio**: Full-featured IDE for complex applications with comprehens
 ii. **Visual Studio Code**: Lightweight, open-source code editor with support for extensions, suitable for various programming languages.
 
 
+
+
 8. Integrating GitHub with Visual Studio: Describe the steps to integrate a GitHub repository with Visual Studio. 
 How does this integration enhance the development workflow?
 
@@ -253,6 +267,8 @@ i. **Seamless code commits**: Easily commit and push changes.
 ii. **Integrated issue tracking**: Manage GitHub issues directly from Visual Studio.
 
 iii. **Efficient code reviews**: Create and review pull requests within the IDE.
+
+
 
 
 9. Debugging in Visual Studio: Explain the debugging tools available in Visual Studio. 
@@ -305,12 +321,16 @@ iii. **Issue tracking**: Track bugs and feature requests.
 iv. **Continuous integration**: Use GitHub Actions for automated testing and deployment.
 
 
+
+
 **Real-world example**
 
 A team developing a web application for a hospital system can use Visual Studio for coding and debugging. 
 They can use GitHub to manage the codebase, create branches for new features, 
 submit pull requests for code reviews, and use GitHub Actions for automated testing and deployment. 
 This integration ensures efficient collaboration and high-quality code.
+
+
 
 
 **REFERENCES**
